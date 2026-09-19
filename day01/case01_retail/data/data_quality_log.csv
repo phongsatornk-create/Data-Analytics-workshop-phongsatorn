@@ -5,5 +5,5 @@ Category,Region,5,south,South,Standardized,Same region with inconsistent case/wh
 Category,Region,19, SOUTH ,South,Standardized,Same region with inconsistent case/whitespace
 Category,Category,24,Electronic,Electronics,Standardized,Matches the established category label
 Duplicate,Entire row,262,Exact duplicate,,Removed from working data,Identical record already appears earlier
-Impossible,Quantity,79,-2,,Flagged for review,No reliable replacement value
-Impossible,Discount,57,2.5,,Flagged for review,No reliable replacement value
+Impossible,Quantity,79,-2,2,Corrected,Confirmed quantity should be positive 2
+Impossible,Discount,57,2.5,0.025,Corrected,Confirmed original value represented 2.5 percent

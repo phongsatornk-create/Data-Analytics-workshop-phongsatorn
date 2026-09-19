@@ -54,7 +54,7 @@ Date,Region,Branch,Product,Category,Customer_Segment,Quantity,Discount,Sales,Cos
 2026-06-12,Central,B01,P-A,Home,Returning,4,0.0,3633.38,2252.7,1380.68
 2026-03-19,North,B12,P-E,Sports,Returning,2,0.106,2270.16,1549.05,721.11
 2026-04-20,South,B01,P-B,Electronics,Returning,2,0.228,3813.77,4003.13,-189.36
-2026-03-05,East,B05,P-B,Electronics,Returning,7,2.5,12768.7,10125.92,2642.77
+2026-03-05,East,B05,P-B,Electronics,Returning,7,0.025,12768.7,10125.92,2642.77
 2026-01-31,Central,B02,P-D,Food,Returning,3,0.05,1105.97,791.74,314.23
 2026-03-11,Central,B01,P-B,Electronics,New,2,0.174,3180.62,2812.45,368.17
 2026-01-12,South,B08,P-E,Sports,Returning,5,0.066,6218.57,4063.48,2155.1
@@ -76,7 +76,7 @@ Date,Region,Branch,Product,Category,Customer_Segment,Quantity,Discount,Sales,Cos
 2026-05-03,Central,B12,P-B,Electronics,New,1,0.111,1783.37,1463.82,319.56
 2026-06-17,North,B11,P-E,Sports,New,5,0.073,5366.02,3531.41,1834.61
 2026-03-06,South,B03,P-A,Home,Returning,6,0.111,4755.62,3317.86,1437.76
-2026-02-23,East,B08,P-C,Beauty,New,-2,0.106,2769.29,1704.37,1064.92
+2026-02-23,East,B08,P-C,Beauty,New,2,0.106,2769.29,1704.37,1064.92
 2026-04-17,Central,B07,P-B,Electronics,Returning,7,0.044,13319.54,10175.81,3143.73
 2026-03-06,North,B07,P-A,Home,Returning,4,0.132,2966.61,2119.07,847.54
 2026-02-27,Central,B06,P-B,Electronics,Returning,5,0.091,9332.91,7498.91,1833.99
