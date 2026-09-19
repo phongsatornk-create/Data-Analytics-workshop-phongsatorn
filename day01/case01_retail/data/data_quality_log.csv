@@ -1,0 +1,9 @@
+Issue,Field,Original_Row,Original_Value,New_Value,Decision,Reason
+Missing,Sales,33,,805.43,Filled from Cost + Profit,Arithmetic relationship is available
+Missing,Profit,34,,1791.81,Filled from Sales - Cost,Arithmetic relationship is available
+Category,Region,5,south,South,Standardized,Same region with inconsistent case/whitespace
+Category,Region,19, SOUTH ,South,Standardized,Same region with inconsistent case/whitespace
+Category,Category,24,Electronic,Electronics,Standardized,Matches the established category label
+Duplicate,Entire row,262,Exact duplicate,,Removed from working data,Identical record already appears earlier
+Impossible,Quantity,79,-2,,Flagged for review,No reliable replacement value
+Impossible,Discount,57,2.5,,Flagged for review,No reliable replacement value
